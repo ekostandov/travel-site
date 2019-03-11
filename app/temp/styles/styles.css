@@ -787,6 +787,7 @@ a {
 	}
 
 .feature-item__title {
+		/*del later*/
 		font-size: 1.6rem;
 		font-weight: 300;
 		margin-top: .7em;
