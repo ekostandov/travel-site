@@ -16,6 +16,8 @@
 		margin-left: auto;
 		margin-right: auto;
 		margin-bottom: .6rem;
+		position: relative;
+		z-index: 100;
 
 		@mixin atSmall {
 			position: relative;
